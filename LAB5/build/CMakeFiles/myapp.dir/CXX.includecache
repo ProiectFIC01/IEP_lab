@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brehui/Desktop/Laborator_IEP/LAB5/app.cpp
+app.h
+/home/brehui/Desktop/Laborator_IEP/LAB5/app.h
+
+/home/brehui/Desktop/Laborator_IEP/LAB5/app.h
+iostream
+-
+library/library.h
+/home/brehui/Desktop/Laborator_IEP/LAB5/library/library.h
+
+/home/brehui/Desktop/Laborator_IEP/LAB5/library/library.h
+iostream
+-
+
